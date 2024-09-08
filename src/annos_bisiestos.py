@@ -13,7 +13,7 @@ def evaluar(anno):
 
     return respuesta
             
-if __name__ == '__main__':
+if _name_ == '_main_':
     print("Año:", end="")
     anno = int(input())
 
